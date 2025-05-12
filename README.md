@@ -75,6 +75,8 @@ Use reset to **remove this commit**.
 
 c1
 c2
+c3
+c4
 
 Some guidelines for the tasks:
 
