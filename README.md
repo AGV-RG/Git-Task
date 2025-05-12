@@ -44,7 +44,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ENTER NAMES HERE \
 
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
-Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
+Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)
+Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
@@ -75,6 +76,7 @@ This prevents Git from losing history, which is important for the integrity of y
 - Create a new branch (called Task4) in your fork. Add a dummy piece of code and push it to the current branch. 
 - You've now realized that you've pushed something that is not only wrong but also stupid. You regret it so much that you want the commit to vanish altogether. 
 Use reset to **remove this commit**. 
+**stupid mistake**
 
 ## Task 5
 
