@@ -50,7 +50,8 @@ Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
-Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
+Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
+Allu Gowri Sasaank [allugowrisasaank](https://github.com/allugowrisasaank)
 
 
 ## Task 2
