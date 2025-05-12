@@ -43,15 +43,15 @@ Your entry should maintain alphabetic order and it should be in the format:
    
 ENTER NAMES HERE \
 
-Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Agneev Maitra [agneevopter](https://github.com/agneevopter)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
-Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
-Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
-Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
+Gokul Vemuri [gokidaman](https://github.com/gokidaman)  
+Oishi Nandi [oishi-nandi](https://github.com/oishi-nandi)  
+Ratharv Rathore [ratharvrathore](https://github.com/ratharvrathore)  
+Reeck Mondal [TheRGuy9201](https://github.com/TheRGuy9201)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
-Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
+Uday Kalyan S [uday-kalyan-s](https://github.com/uday-kalyan-s)  
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
-
 
 ## Task 2
 
