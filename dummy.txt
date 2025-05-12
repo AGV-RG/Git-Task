@@ -3,4 +3,9 @@ Dummy line 1
 =======
 Dummy line 2
 Dummy line 3
+<<<<<<< HEAD
 >>>>>>> c09fd9b (Add dummy line 3)
+=======
+Dummy line 4
+Dummy line 5
+>>>>>>> 2f7e8b8 (Add dummy line 5)
