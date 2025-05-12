@@ -1,1 +1,6 @@
 Dummy line 1
+<<<<<<< HEAD
+=======
+Dummy line 2
+Dummy line 3
+>>>>>>> c09fd9b (Add dummy line 3)
