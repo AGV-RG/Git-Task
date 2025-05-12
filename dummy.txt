@@ -1,0 +1,15 @@
+Dummy line 1
+<<<<<<< HEAD
+=======
+Dummy line 2
+Dummy line 3
+<<<<<<< HEAD
+>>>>>>> c09fd9b (Add dummy line 3)
+=======
+Dummy line 4
+Dummy line 5
+<<<<<<< HEAD
+>>>>>>> 2f7e8b8 (Add dummy line 5)
+=======
+Dummy line 6
+>>>>>>> 1e468f3 (Add dummy line 6)
