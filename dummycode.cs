@@ -7,6 +7,6 @@ namespace
 {
     public class NewClass
     {
-        System.Console.WriteLine("dummy code-1");
+        System.Console.WriteLine("dummy code-5");
     }
 }
