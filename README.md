@@ -45,7 +45,7 @@ ENTER NAMES HERE \
 
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)
-Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp) 
+Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
@@ -65,6 +65,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 ## Task 3
 
 - Create a new branch (called Task3) in your fork. Add a dummy piece of code and push it to the current branch. 
+**dummy code: print("dummy code")**
 - You've now realized that you pushed something wrong. Instead of removing the commit altogether, **push another commit that will undo the changes made**. 
 - Create a pull request.
 
