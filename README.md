@@ -46,6 +46,7 @@ ENTER NAMES HERE \
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
+Jinansh Dalal [jinansh-dalal](http://github.com/jinansh-dalal)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
