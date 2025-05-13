@@ -51,6 +51,7 @@ Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
+Moksh Patel [T3CH-Pyth0n](https://github.com/T3CH-Pyth0n)
 
 
 ## Task 2
