@@ -46,6 +46,7 @@ ENTER NAMES HERE \
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
+Md Musheer Khan [noob-dev-mk](http://github.com/noob-dev-mk)  
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
@@ -81,6 +82,20 @@ Use reset to **remove this commit**.
 - Create a new branch (called Task5) in your fork. Add a dummy piece of code and commit it to this branch. Do this 5 more times. 
 - Now you want to **remove some intermediate commits**. Remove commit no. 2 and 4 using rebase.
 - Push all the commits into Task5 and create a Pull Request.
+
+Dummy 1
+print("dummy code 1")
+
+
+Dummy 3 
+print("dummy code 3")
+
+Dummy 5 
+print("dummy code 5")
+
+Dummy 6 
+print("dummy code 6")
+
 
 
 Some guidelines for the tasks:
