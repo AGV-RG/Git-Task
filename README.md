@@ -87,6 +87,11 @@ Dummy 1
 print("dummy code 1")
 
 
+Dummy 3 
+print("dummy code 3")
+
+
+
 Some guidelines for the tasks:
 
 * Your Pull Request must be rebased on the latest master.  
