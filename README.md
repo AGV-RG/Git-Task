@@ -93,6 +93,9 @@ print("dummy code 3")
 Dummy 5 
 print("dummy code 5")
 
+Dummy 6 
+print("dummy code 6")
+
 
 
 Some guidelines for the tasks:
