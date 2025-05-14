@@ -50,6 +50,7 @@ Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
+Uddipto Mandal [UddiptoMandal](https://github.com/UddiptoMandal)  
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
 
 
