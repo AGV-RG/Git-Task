@@ -48,6 +48,7 @@ Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
 Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
+Mahin Sanklecha [MahienSanklechaa](https://github.com/MahienSanklechaa)
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
@@ -70,6 +71,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
+
 
 ##  Task 4
 
