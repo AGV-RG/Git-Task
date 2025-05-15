@@ -71,6 +71,8 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
 
+console.log("Check for Task 3");
+
 ##  Task 4
 
 - Create a new branch (called Task4) in your fork. Add a dummy piece of code and push it to the current branch. 
