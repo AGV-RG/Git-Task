@@ -49,10 +49,10 @@ Gokul Vemuri [gokidaman](http://github.com/gokidaman)
 Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
+Soumya Gupta [mugiwara6900](https://github.com/mugiwara6900)
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
-
 
 ## Task 2
 
