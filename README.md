@@ -89,9 +89,7 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 - Create a new branch (called Task3) in your fork. Add a dummy piece of code and push it to the current branch. 
 - You've now realized that you pushed something wrong. Instead of removing the commit altogether, **push another commit that will undo the changes made**. 
 - Create a pull request.
-#Dummy Task 3
-print('Hello,AGV!')
--------------
+
 Why not remove the commit altogether? \
 This prevents Git from losing history, which is important for the integrity of your revision history and for reliable collaboration.
 
