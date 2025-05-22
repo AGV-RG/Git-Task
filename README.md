@@ -45,6 +45,7 @@ ENTER NAMES HERE \
 
 Abhinav Tiwari[atiwari1704](https://github.com/atiwari1704)  
 Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Aneesh Lade [ani26052007](https://github.com/ani26052007)
 Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
 Aryan Ruat [AryanRaut24](https://github.com/AryanRaut24)  
