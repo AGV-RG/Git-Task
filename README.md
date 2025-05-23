@@ -58,9 +58,13 @@ Md Musheer Khan [noob-dev-mk](http://github.com/noob-dev-mk)
 Ibtesam Ahmed [ibte7](http://github.com/ibte7)  
 Jinansh Dalal [jinansh-dalal](http://github.com/jinansh-dalal)  
 Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)  
+
+Netra Nandankar [n-e-t-r-a](https://github.com/n-e-t-r-a)
+
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
 Sohan Choudhury [sohan-choudhury](https://github.com/spak1235)  
 Mahin Sanklecha [MahienSanklechaa](https://github.com/MahienSanklechaa)
+
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
 Soumya Gupta [mugiwara6900](http://github.com/mugiwara6900)  
 SOmisetty Venkata Saran[FlyingNInja420](http://github.com/FlyingNInja420)  
