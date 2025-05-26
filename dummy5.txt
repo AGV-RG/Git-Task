@@ -1,1 +1,6 @@
 Line 1
+HEAD
+
+Line 2
+Line 3
+c2ac5d6 (Task 5: Commit 3 - Added Line 3)
