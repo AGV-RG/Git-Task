@@ -74,7 +74,8 @@ Yash Shah [yash-y-shah](https://github.com/yash-y-shah)
 Mohak Agarwal [Mohak0245](https://github.com/Mohak0245)  
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
 Allu Gowri Sasaank [allugowrisasaank](https://github.com/allugowrisasaank)  
-Saksham Kumar [saksham-kumar-14](https://github.com/saksham-kumar-14)  
+Saksham Kumar [saksham-kumar-14](https://github.com/saksham-kumar-14)   
+M B Thejesshwar [thejesshwar](https://github.com/thejesshwar)
 
 ## Task 2
 
