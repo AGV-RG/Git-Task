@@ -13,7 +13,8 @@ Git is a powerful, distributed version control system that enables teams to trac
 # Git - Resources and Tasks
 
 - Resources:
-  - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main. Attach full-screen screenshots after solving the modules to your documentation.
+  - [Interactive Git Learning Platform](https://learngitbranching.js.org) No need for doing the advance topics in both remote/main. Attach full-screen screenshots after solving the modules to your documentation like the following:
+    ![](images/learngitbranching-ss1.png) ![](images/learngitbranching-ss2.png)
   - [Interactive Git to practice and experiment](https://www.msyamkumar.com/cs320/learnGitBranching/index.html) Feel free to test out and experiment with different Git methodologies.
   - [Git Cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 - Extra Resources 
@@ -43,16 +44,47 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ENTER NAMES HERE \
 
-Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Abhinav Tiwari[atiwari1704](https://github.com/atiwari1704)  
+Abhishek Lakote[abhilakote01](https://github.com/abhilakote01)
+Agneev Maitra [agneevopter](http://github.com/agneevopter) 
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
+Allu Gowri Sasaank [allugowrisasaank](https://github.com/allugowrisasaank)  
+Aneesh Lade [ani26052007](https://github.com/ani26052007)
+Anshumaan Mishra [AnshumaanMishra](https://github.com/AnshumaanMishra)  
+Arnav Bhandari [arnavbhandari414](https://github.com/arnavbhandari414) 
+Aryan Pokhriyal [Aryan1Pokhriyal](https://github.com/Aryan1Pokhriyal)  
+Aryan Ruat [AryanRaut24](https://github.com/AryanRaut24)  
+Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)  
 Gokul Vemuri [gokidaman](http://github.com/gokidaman)  
-Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)
+Hetarth Somani [hetarth-somani](https://github.com/hetarth-somani)  
+Ibtesam Ahmed [ibte7](http://github.com/ibte7)  
+Jinansh Dalal [jinansh-dalal](http://github.com/jinansh-dalal)  
+Kunjika Tripathi [Kunjika07] (http://github.com/Kunjika07)  
+Mahin Sanklecha [MahienSanklechaa](https://github.com/MahienSanklechaa)
+Md Musheer Khan [noob-dev-mk](http://github.com/noob-dev-mk)  
+Mohak Agarwal [Mohak0245](https://github.com/Mohak0245)  
+Moksh Patel [T3CH-Pyth0n](https://github.com/T3CH-Pyth0n)  
+Netra Nandankar [n-e-t-r-a](https://github.com/n-e-t-r-a)
 Oishi Nandi [oishi-nandi](http://github.com/oishi-nandi)  
+Prabhuti Arora [prabhutiarora](https://github.com/prabhutiarora)
 Ratharv Rathore ratharvrathore(http://github.com/ratharvrathore)  
+Reeck Mondal [TheRGuy9201](https://github.com/TheRGuy9201)
+Rishi Songirkar [OS-IT1](https://github.com/OS-IT1)  
+Rohan Kumar Sah [rosa479](https://github.com/rosa479)  
+Saksham Kumar [saksham-kumar-14](https://github.com/saksham-kumar-14)  
+Satyam Chakravorty [satyam-lgtm](https://github.com/satyam-lgtm)  
+Shrey Nayakpara [ShreyNayakpara](https://github.com/ShreyNayakpara)  
+Sohan Choudhury [sohan-choudhury](https://github.com/spak1235)  
+SOmisetty Venkata Saran[FlyingNInja420](http://github.com/FlyingNInja420)  
+Soumya Gupta [mugiwara6900](http://github.com/mugiwara6900)  
+Spandan Das [spandandas489](http://github.com/spandandas489)  
 Tanishq Saxena [saxenatanishq](https://github.com/saxenatanishq)  
 Uday Kalyan S [uday-kalyan-s](http://github.com/uday-kalyan-s)  
-Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)
-
+Uddipto Mandal [UddiptoMandal](https://github.com/UddiptoMandal)  
+Yajat Mishra [yajatmishra](https://githum.com/yajatmishra)
+Yash Bhatt [Curiousforever](https://github.com/Curiousforever)  
+Yash Shah [yash-y-shah](https://github.com/yash-y-shah)  
+Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
 
 ## Task 2
 
@@ -89,3 +121,5 @@ Some guidelines for the tasks:
 * Your Pull Request must be rebased on the latest master.  
 * This commit must have a message that is explanatory. For eg. for Task 1: `Add name to README (Name here)`.
 * Name of the PR must be informative. For eg. for Task 1: `(Task1) Add my name to the README (Name here)`.
+
+
